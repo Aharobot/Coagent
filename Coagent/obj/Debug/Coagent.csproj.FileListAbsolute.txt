@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Coagent\Coagent\bin\Debug\Coagent.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Coagent\Coagent\bin\Debug\Coagent.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Coagent\Coagent\obj\Debug\Coagent.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Coagent\Coagent\obj\Debug\Coagent.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Coagent\Coagent\obj\Debug\Coagent.pdb

@@ -1,0 +1,7 @@
+c:\users\admin\documents\visual studio 2012\Projects\CoagentTest\CoagentTest\bin\Debug\CoagentTest.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\CoagentTest\CoagentTest\bin\Debug\CoagentTest.exe
+c:\users\admin\documents\visual studio 2012\Projects\CoagentTest\CoagentTest\bin\Debug\CoagentTest.pdb
+c:\users\admin\documents\visual studio 2012\Projects\CoagentTest\CoagentTest\bin\Debug\Coagent.dll
+c:\users\admin\documents\visual studio 2012\Projects\CoagentTest\CoagentTest\obj\Debug\CoagentTest.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\CoagentTest\CoagentTest\obj\Debug\CoagentTest.exe
+c:\users\admin\documents\visual studio 2012\Projects\CoagentTest\CoagentTest\obj\Debug\CoagentTest.pdb
